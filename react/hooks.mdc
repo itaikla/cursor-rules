@@ -1,0 +1,7 @@
+
+# Your rule content
+
+- You can @ files here
+- You can use markdown but dont have to
+
+Don't write hard-coded colors, but use the internal module 'theme'.
