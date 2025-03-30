@@ -1,0 +1,7 @@
+# Python best practices
+
+# Readability
+Functions should not exceed 50 lines for readability and maintainability.
+Avoid using global variables and mutable state outside functions or classes.
+# Layer separation
+Ensure proper separation of concerns between controllers, services, and repositories.
