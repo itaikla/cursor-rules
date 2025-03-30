@@ -1,0 +1,7 @@
+# Performance Optimizations
+
+- Memoize expensive calculations with useMemo
+- Memoize callbacks with useCallback
+- Use proper dependency arrays in hooks
+- Avoid inline object creation in render
+- Use React.memo for pure components
