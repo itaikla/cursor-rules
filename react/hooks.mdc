@@ -1,7 +1,12 @@
+# Hooks Organization
 
-# Your rule content
-
-- You can @ files here
-- You can use markdown but dont have to
-
-Don't write hard-coded colors, but use the internal module 'theme'.
+- Define hooks at the top of the component body
+- Group hooks by functionality:
+  1. State hooks (useState)
+  2. Context hooks (useContext)
+  3. Ref hooks (useRef)
+  4. Effect hooks (useEffect)
+  5. Callback hooks (useCallback)
+  6. Memoization hooks (useMemo)
+- Custom hooks should be prefixed with 'use'
+- Extract complex logic into custom hooks
