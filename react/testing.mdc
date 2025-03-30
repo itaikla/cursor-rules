@@ -1,0 +1,8 @@
+# Testing Conventions
+
+- Place test files next to component files
+- Use descriptive test names
+- Group tests by functionality
+- Mock complex dependencies
+- Use test builders for complex objects
+- 
